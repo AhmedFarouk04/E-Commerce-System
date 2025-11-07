@@ -72,7 +72,3 @@ The project includes modules for **user management**, **product catalog**, **car
 
 
 ```
-
-
-
-
