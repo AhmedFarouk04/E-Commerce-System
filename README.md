@@ -73,14 +73,6 @@ The project includes modules for **user management**, **product catalog**, **car
 
 ```
 
----
-### 🌟 Future Enhancements  
-- Replace `FakeDbContext` with a real SQL database using Entity Framework  
-- Add Admin Panel for product & order management  
-- Implement REST API version for frontend integration  
-- Include JWT authentication and role-based authorization  
-- Introduce Unit Tests and logging (Serilog)
 
----
 
 
