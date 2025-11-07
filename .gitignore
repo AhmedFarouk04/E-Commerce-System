@@ -1,0 +1,19 @@
+# Ignore Visual Studio files
+.vs
+.suo
+.user
+.userosscache
+.sln.docstates
+
+# Build results
+bin
+obj
+Debug
+Release
+
+# Other system files
+.log
+.vsidx
+.db
+.cache
+.temp
