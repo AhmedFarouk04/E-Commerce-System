@@ -70,56 +70,12 @@ The project includes modules for **user management**, **product catalog**, **car
 
 ---
 
-### 🧉 Tech Stack  
 
-| Category | Tools |
-|-----------|--------|
-| Language | C# |
-| Framework | .NET 6 / .NET 8 Console |
-| Architecture | 3-Tier + Repository Pattern |
-| Storage | In-Memory (`FakeDbContext`) |
-| Version Control | Git + GitHub |
-
----
-
-### 🚀 How to Run  
-
-```bash
-git clone https://github.com/yourusername/ECommerceSystem.git
-cd ECommerceSystem
-dotnet build
-dotnet run --project ECommerce.Presentation
 ```
 
 ---
 
-### 📚 Example Flow  
 
-```
-=== E-Commerce System ===
-1. Register
-2. Login
-3. Exit
-Choose: 1
-Name: Ahmed
-Email: ahmed@gmail.com
-Password: 123abc
-Registration successful!
-
-=== Main Menu ===
-1. View Products
-2. Add to Cart
-3. View Cart
-4. Checkout
-5. View Orders
-6. Logout
-Choose: 2
-Enter product ID: 1
-Enter quantity: 2
-✅ Added 2 × Laptop to cart.
-```
-
----
 
 ### 🌟 Future Enhancements  
 - Replace `FakeDbContext` with a real SQL database using Entity Framework  
@@ -130,9 +86,4 @@ Enter quantity: 2
 
 ---
 
-### 👨‍💻 Author  
-**[Your Name]**  
-📧 your.email@example.com  
-💼 [LinkedIn Profile](https://www.linkedin.com/)  
-💻 Passionate about clean code, software architecture, and OOP mastery.
 
