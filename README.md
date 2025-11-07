@@ -68,7 +68,4 @@ The project includes modules for **user management**, **product catalog**, **car
 - 🔹 **Safe input handling** via centralized helper class (`InputHelper`)  
 - 🔹 **FakeDbContext** acts as in-memory database for testing  
 
----
 
-
-```
